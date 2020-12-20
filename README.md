@@ -14,3 +14,8 @@ and,
 
    l = p/r  
    
+   # Screenshot
+   
+   ![IMG_8116](https://user-images.githubusercontent.com/55308841/102711241-0e003680-42de-11eb-936f-c6e49a1c9485.jpg)
+
+   
